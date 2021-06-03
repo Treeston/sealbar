@@ -1,0 +1,9 @@
+## Interface: 20501
+## Title: SealBar
+## Description: A bar for your Seals
+## Author: gallantron
+## SavedVariables: SealBar__DB
+## OptionalDeps: Ace3, LibSharedMedia-3.0
+
+Externals.xml
+SealBar.lua

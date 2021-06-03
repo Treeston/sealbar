@@ -1,0 +1,9 @@
+package-as: SealBar
+enable-nolib-creation: no
+
+externals:
+    externals/LibStub: https://repos.curseforge.com/wow/ace3/trunk/LibStub
+    externals/AceConfig-3.0: https://repos.curseforge.com/wow/ace3/trunk/AceConfig-3.0
+    externals/AceDB-3.0: https://repos.curseforge.com/wow/ace3/trunk/AceDB-3.0
+    externals/AceDBOptions-3.0: https://repos.curseforge.com/wow/ace3/trunk/AceDBOptions-3.0
+    externals/LibSharedMedia-3.0: https://repos.curseforge.com/wow/libsharedmedia-3-0/trunk
