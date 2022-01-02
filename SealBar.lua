@@ -1,3 +1,5 @@
+if (select(2, UnitClass("player"))) ~= "PALADIN" then return end
+
 local myName = (...)
 local _
 
@@ -11,6 +13,7 @@ local seals = {
     348701, -- martyr
     31801, -- vengeance
     20166, -- wisdom
+    27170, -- command
 }
 
 local nameIsSeal = {} -- populated on SPELLS_CHANGED
